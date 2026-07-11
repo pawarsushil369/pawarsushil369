@@ -3,7 +3,7 @@
 <!-- Banner / Header -->
 <div align="center">
 
-![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2C9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Arvind+Kokane;Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL)
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2C9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sushil+Pawar;Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL)
 
 </div>
 
@@ -11,7 +11,7 @@
 
 <div align="center">
 
-### 👋 Hey there! I'm Arvind
+### 👋 Hey there! I'm Sushil
 
 🎓 3rd-year **Computer Engineering** student @ SKNSITS, Lonavala  
 ⚙️ Backend Developer specializing in **Java & Spring Boot**  
