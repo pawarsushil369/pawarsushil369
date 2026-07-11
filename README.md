@@ -47,7 +47,7 @@ public class Arvind extends Developer {
 <div align="center">
 
 <img  src="https://github.com/user-attachments/assets/5de87f37-2454-4551-9b76-8c93cb45f2cf" />
-" alt="LeetCode Stats" width="85%" style="border-radius:12px;" />
+
 
 </div>
 
