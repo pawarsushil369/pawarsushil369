@@ -17,7 +17,7 @@
 ⚙️ Backend Developer specializing in **Java & Spring Boot**  
 🚀 Building scalable, production-deployed web applications  
 🧠 CGPA: **8.65** | LeetCode: **300+ problems solved**  
-📍 Lonavala, Maharashtra, India
+📍 Lonavala, Maharashtra, India.
 
 </div>
 
