@@ -28,9 +28,9 @@
 ```java
 public class Arvind extends Developer {
 
-    String[] skills     = {"Java", "Spring Boot", "Spring Security", "MySQL", "REST APIs"};
-    String[] tools      = {"Git", "GitHub", "Postman", "VS Code", "STS", "Eclipse"};
-    String[] interests  = {"Backend Architecture", "JWT Auth", "DSA", "System Design"};
+    String[] skills     = {"Java", "Node js", "Expressjs", "MySQL", "REST APIs","MongoDB"};
+    String[] tools      = {"Git", "GitHub", "VS Code"};
+    String[] interests  = {"JWT Auth", "DSA", "System Design"};
     String   status     = "Open to internships & opportunities 🚀";
 
     @Override
