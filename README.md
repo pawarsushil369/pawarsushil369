@@ -11,7 +11,7 @@
 
 <div align="center">
 
-### 👋 Hey there! I'm Sushil
+### 👋 Hey there! I'm Sushil.
 
 🎓 3rd-year **Computer Engineering** student @ SKNSITS, Lonavala  
 ⚙️ Backend Developer specializing in **Java & Spring Boot**  
