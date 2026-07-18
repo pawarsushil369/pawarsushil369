@@ -133,7 +133,7 @@ public class Arvind extends Developer {
 
 | 🥇 | Detail |
 |---|---|
-| 🔥 LeetCode Streak | **57-day max streak**, 162 active days |
+| 🔥 LeetCode Streak | **38-day max streak**, 162 active days |
 | 🏅 LeetCode Badges | **3 badges** including 50 Days Badge 2026 |
 | 🧩 DSA Problems | **300+** solved — Recursion, Trees, Graphs, Backtracking |
 | 🌐 Production Deploys | **2 full-stack apps** live in production |
