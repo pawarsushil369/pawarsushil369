@@ -16,7 +16,7 @@
 🎓 3rd-year **Computer Engineering** student @ SKNSITS, Lonavala  
 ⚙️ Backend Developer specializing in **Java & Spring Boot**  
 🚀 Building scalable, production-deployed web applications  
-🧠 CGPA: **8.65** | LeetCode: **300+ problems solved**  
+🧠 CGPA: **8.65** | LeetCode: **230+ problems solved**  
 📍 Lonavala, Maharashtra, India..
 
 </div>
