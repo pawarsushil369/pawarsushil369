@@ -1,9 +1,8 @@
-<div align="center">
+ <div align="center">
 
-<!-- Banner / Header -->
-<div align="center">
+<!-- Animated Header -->
 
-![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2C9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sushil+Pawar;Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2C9EF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Sushil+Pawar;MERN+Stack+Developer;Backend+Developer;Node.js+%7C+Express.js+%7C+MongoDB)
 
 </div>
 
@@ -11,13 +10,17 @@
 
 <div align="center">
 
-### 👋 Hey there! I'm Sushil.
+### 👋 Hey there! I'm Sushil Pawar
 
-🎓 3rd-year **Computer Engineering** student @ SKNSITS, Lonavala  
-⚙️ Backend Developer specializing in **Java & Spring Boot**  
-🚀 Building scalable, production-deployed web applications  
-🧠 CGPA: **8.65** | LeetCode: **230+ problems solved**  
-📍 Lonavala, Maharashtra, India..
+🎓 Computer Engineering student @ Savitribai Phule Pune University
+
+⚙️ Backend Developer specializing in **Node.js, Express.js & MongoDB**
+
+🚀 Building practical, full-stack web applications
+
+🧠 CGPA: **8.56 / 10** | LeetCode: **230+ problems solved**
+
+📍 Maharashtra, India
 
 </div>
 
@@ -25,71 +28,89 @@
 
 ## 🧑‍💻 About Me
 
-```java
-public class Arvind extends Developer {
+```javascript
+const sushil = {
+    name: "Sushil Pawar",
+    role: "MERN Stack Developer",
 
-    String[] skills     = {"Java", "Node js", "Expressjs", "MySQL", "REST APIs","MongoDB"};
-    String[] tools      = {"Git", "GitHub", "VS Code"};
-    String[] interests  = {"JWT Auth", "DSA", "System Design"};
-    String   status     = "Open to internships & opportunities 🚀";
+    skills: [
+        "Java",
+        "JavaScript",
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "EJS"
+    ],
 
-    @Override
-    public String toString() {
-        return "Passionate backend dev who loves clean, maintainable code.";
-    }
-}
+    tools: [
+        "Git",
+        "GitHub",
+        "Postman",
+        "VS Code",
+        "Render",
+        "Cloudinary"
+    ],
+
+    interests: [
+        "Backend Development",
+        "REST APIs",
+        "Authentication",
+        "Database Management",
+        "Data Structures & Algorithms"
+    ],
+
+    projects: [
+        "Virtual Assistant",
+        "Wanderlust Stays"
+    ],
+
+    status: "Open to opportunities 🚀"
+};
+
+console.log("Learning, building, and improving every day!");
 ```
 
 ---
 
-## 📸 LeetCode Stats
-
-<div align="center">
-
-<img  src="https://github.com/user-attachments/assets/5de87f37-2454-4551-9b76-8c93cb45f2cf" />
-
-
-</div>
-
-> 🏆 **Contest Rating: 1541** | 🌍 **Global Rank: 287,946 / 863,486** | 🔥 **Max Streak: 57 days**  
-> ✅ Easy: 150 | 🟡 Med: 178 | 🔴 Hard: 10 | 📈 338 solved | 🗓️ 162 Active Days
----
-
 ## 🚀 Featured Projects
 
-### 🔐 Authentication API
-> *Spring Boot · Spring Security · MySQL · JWT*
+### 🤖 1. Virtual Assistant — Jarvis AI Assistant
 
-- Built secure authentication APIs with **JWT** for login & **role-based access control**
-- Integrated JWT token generation and validation into the **Spring Security filter chain** for stateless sessions
-- Designed & optimized **MySQL schemas** with proper indexing for fast credential lookups
+> *MongoDB · Express.js · React.js · Node.js · JWT · Gemini API · Web Speech API*
 
----
+- Developed a voice-enabled virtual assistant using the MERN stack.
+- Integrated the **Web Speech API** to capture user voice commands and convert speech into text.
+- Integrated the **Gemini API** to generate intelligent responses to user commands.
+- Implemented user authentication using **JSON Web Tokens (JWT)**.
+- Used **bcryptjs** to hash passwords before storing user credentials.
+- Stored user information and command history in MongoDB.
+- Connected frontend interactions to backend REST APIs.
+- Implemented asynchronous API communication using JavaScript promises and `async/await`.
 
-### 💬 ChatApp — Social Networking Platform
-> *Spring Boot · MySQL · REST APIs · Vercel · Render*
+**Key learning:** Voice recognition, AI API integration, authentication, REST APIs, and frontend-backend communication.
 
-- Built and deployed a **production social chat platform** from scratch
-- Designed a normalized MySQL schema for users, posts & social interactions with optimized queries
-- 🌐 **Live:** [chatapp-theta-livid.vercel.app](https://chatapp-theta-livid.vercel.app)
-
----
-
-### 📋 Counsellor Management Portal
-> *Spring Boot · MySQL · JWT · REST APIs*
-
-- Digitized student enquiry management for **200+ records**, replacing a manual tracking process
-- Built real-time dashboard analytics tracking **Open, Closed, and Enrolled** enquiry statuses
-- Implemented clean layered architecture — **Controller → Service → Repository → DTO**
-- Secured all endpoints with **JWT-based authentication**
+🔗 **GitHub:** [Explore my GitHub repositories](https://github.com/pawarsushil369)
 
 ---
 
-### 🔒 SmartControl
-> *Java · Spring Boot · Flutter · Firebase · MySQL*
+### 🏡 2. Wanderlust Stays — Travel Listing Web Application
 
-- Unlock your laptop using **fingerprint**, control **WiFi/Bluetooth & trackpad** remotely
-- ⭐ Featured as most popular repo on my GitHub profile
+> *Node.js · Express.js · MongoDB · Mongoose · EJS · Bootstrap · Passport.js · Cloudinary*
+
+- Developed a full-stack travel listing application that allows users to explore and manage property listings.
+- Implemented **CRUD operations** to create, view, edit, and delete listings.
+- Integrated user authentication using **Passport.js** and session-based authentication.
+- Implemented authorization to restrict listing modifications to authorized users.
+- Developed a review and rating system for property listings.
+- Used **MongoDB and Mongoose** to store and manage listings, users, and reviews.
+- Integrated **Cloudinary** for property image uploads and storage.
+- Used the **MVC architecture** to organize routes, models, controllers, and views.
+- Implemented middleware for request validation, authentication, and error handling.
+
+**Key learning:** Backend architecture, database relationships, session management, middleware, authorization, and deployment.
+
+🔗 **GitHub:** [Wanderlust Stays Repository](https://github.com/pawarsushil369/Wanderlust-Stays)
 
 ---
 
@@ -97,18 +118,51 @@ public class Arvind extends Developer {
 
 <div align="center">
 
+### Languages
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frontend
+
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+
+### Database & Authentication
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black)
+
+### Tools & Deployment
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+</div>
+
+---
+
+## 📸 LeetCode Stats
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+  <img src="https://leetcard.jacoblin.cool/Sushil_Bhagwan_Pawar?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="85%" />
+</a>
 
 </div>
 
@@ -118,27 +172,39 @@ public class Arvind extends Developer {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arvind220903&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c5364&icon_color=a8d8ea&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arvind220903&theme=tokyonight&hide_border=true&background=0d1117&ring=2c5364&fire=a8d8ea&currStreakLabel=a8d8ea" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=pawarsushil369&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c5364&icon_color=a8d8ea&text_color=c9d1d9" width="48%" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pawarsushil369&theme=tokyonight&hide_border=true&background=0d1117&ring=2c5364&fire=a8d8ea&currStreakLabel=a8d8ea" width="48%" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arvind220903&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c5364&text_color=c9d1d9" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawarsushil369&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c5364&text_color=c9d1d9" width="40%" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Goals
 
-| 🥇 | Detail |
+| 🎯 | Details |
 |---|---|
-| 🔥 LeetCode Streak | **38-day max streak**, 162 active days |
-| 🏅 LeetCode Badges | **3 badges** including 50 Days Badge 2026 |
-| 🧩 DSA Problems | **300+** solved — Recursion, Trees, Graphs, Backtracking |
-| 🌐 Production Deploys | **2 full-stack apps** live in production |
-| 🎓 Academic | CGPA **8.65 / 10** |
-| 🦈 GitHub | **Pull Shark** achievement |
+| 🎓 Academic | CGPA **8.56 / 10** |
+| 🧩 DSA | **230+ LeetCode problems solved** |
+| 💻 Development | Full-stack development using the MERN stack |
+| 🔐 Backend | Authentication, authorization, and REST API development |
+| 🚀 Projects | Virtual Assistant and Wanderlust Stays |
+| 📚 Learning | Java, DSA, DBMS, SQL, and backend development |
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening Data Structures and Algorithms using Java.
+- Improving Node.js and Express.js backend development.
+- Practicing SQL and DBMS interview questions.
+- Understanding authentication, authorization, and database design.
+- Building reliable and maintainable web applications.
+- Preparing for software developer placement interviews.
 
 ---
 
@@ -146,10 +212,13 @@ public class Arvind extends Developer {
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kokanearvind875@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arvind220903)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Lahu2209/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-wine-rho-xyfsh0lohq.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pawarsushil369)
+
+<!-- Replace the links below with your actual profiles -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 
 </div>
 
@@ -157,8 +226,12 @@ public class Arvind extends Developer {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="Footer Banner" />
 
-*"Clean code always looks like it was written by someone who cares."*
+*"Clean code, consistent learning, and practical projects build great developers."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=pawarsushil369&style=flat-square&color=blue)
+
+**Thanks for visiting my profile! ⭐**
 
 </div>
